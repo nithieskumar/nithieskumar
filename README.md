@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Movie Recommendation Web**
 
-- 🌱 I’m currently learning **3-D Animation,Go Programming**
+- 🌱 I’m currently learning **3-D Animation**
 
 - 📫 How to reach me **nithies60@gmail.com**
 
