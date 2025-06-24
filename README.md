@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithieskumar" alt="nithieskumar" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation Web**
+- 🔭 I’m currently working on **Calenscape**
 
 - 🌱 I’m currently learning **3-D Animation**
 
