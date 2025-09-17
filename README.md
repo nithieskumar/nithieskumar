@@ -8,8 +8,7 @@
 ---
 
 ### 🔭 Currently Working On
-- 🚧 **Calenscape** – An event calendar and management platform built using React, Node.js, PostgreSQL, and Firebase
-
+- 🚧 **Gait Recognition using CNN-TRANSFORMERS** – Developed a deep learning model combining CNN and TRANSFORMERS to extract spatial-temporal gait features for user verification.
 ### 🌱 Learning Goals
 - 🎨 Advanced **3D modeling & animation** with **Blender**
 - 🧠 Integrating AI & 3D experiences into web apps
